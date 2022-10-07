@@ -18,7 +18,6 @@
 
 .main{
   width: 960px;
-  height: 1400px;
   display: flex;
   justify-content: center;
   margin: 0 auto;
@@ -27,19 +26,19 @@
 .sidebar-left{
   width: 230px;
   height: 1400px;
-  background-color: lime;
+  background-color: palegreen;
 }
 
 .blog{
   width: 500px;
   height: 1400px;
-  background-color: green;
+  background-color: limegreen;
 }
 
 .sidebar-right{
   width: 230px;
   height: 1400px;
-  background-color: lime;
+  background-color: pale;
 }
 
 .footer{
